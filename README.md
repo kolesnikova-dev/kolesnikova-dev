@@ -16,7 +16,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweeuhree&amp;theme=blue_navy&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;" alt="kweeuhree's Github Stats" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweeuhree&amp;theme=blue_navy&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;" alt="kweeuhree's Github Stats" >
 </p>
 <br><br>
 <p>🌱 Fun fact: some of my house plants that are 6 feet tall.</p>
