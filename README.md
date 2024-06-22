@@ -2,7 +2,7 @@
 <hr> <br>
 <p>I'm a software engineer.</p>
 <p>👯 My favorite sport is building full-stack MERN apps, as well as learning web scraping and data visualization with Python.</p>
-<p>🔭 I’m currently working on features for my portfolio website, such as creating my own GitHub stats, and setting up functionality that will allow me to receive emails sent from my portfolio website.</p>
+<p>🔭 I’m currently working on features for my portfolio website, such as enhancing its responsiveness and adding more information..</p>
 <br>
 
 <p align="center">
