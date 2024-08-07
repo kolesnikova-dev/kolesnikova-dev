@@ -1,8 +1,8 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
 <p>I'm a software engineer.</p>
-<p>👯 My favorite sport is building full-stack MERN apps, as well as learning web scraping and data visualization with Python.</p>
-<p>🔭 I’m currently working on a plant journal with Next, as well as features for my portfolio website, such as enhancing its responsiveness and adding more information.</p>
+<p>👯 My favorite sport is building full-stack apps, as well as learning web scraping and data visualization with Python.</p>
+<p>🔭 I’m currently working on picking up Go, as well as features for my portfolio website, such as enhancing its responsiveness and adding more information.</p>
 <br>
 
 <p align="center">
