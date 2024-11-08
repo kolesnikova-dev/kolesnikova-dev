@@ -1,6 +1,6 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
-<p>👯 My favorite sport is building full-stack apps, as well as learning web scraping and data visualization with Python.</p>
+<p>👯 My favorite sport is building full-stack apps.</p>
 <p>🔭 I’m currently working on a TypeScript + Go project, as well as Smart Shopping List project within The Collab Lab.</p>
 <br>
 
