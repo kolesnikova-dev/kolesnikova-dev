@@ -1,7 +1,7 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
 <p>👯 My favorite sport is building full-stack apps.</p>
-<p>🔭 I’m currently working on a TypeScript + Go project, as well as Smart Shopping List project within The Collab Lab.</p>
+<p>🔭 I am currently working on a Go project and actively participating in Chingu Voyages as a Backend Developer.</p>
 <br>
 
 <p align="center">
