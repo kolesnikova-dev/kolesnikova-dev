@@ -1,7 +1,7 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
 <p>👯 My favorite sport is building full-stack apps.</p>
-<p>🔭 I am currently working on a Go project and actively participating in Chingu Voyages as a Backend Developer.</p>
+<p>🔭 I am currently working on a Go project and participating in TeamForward as a Back End Developer.</p>
 <br>
 
 <p align="center">
