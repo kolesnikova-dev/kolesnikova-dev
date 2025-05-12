@@ -1,12 +1,12 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
 <p>👯 My favorite sport is building full-stack apps.</p>
-<p>🔭 I am currently working on a Go project and participating in TeamForward as a Back End Developer.</p>
+<p>🔭 I am a Scrum Master & Application Tester Intern at Capgemini. I volunteer as a Back End Developer at TeamForward, and as a Software Engineering Tutor at Per Scholas.</p>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,vite,js,postman,go,git,vscode,mongo,express,css,html,python" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,vite,js,postman,go,git,vscode,mongo,express,css,html,agile" />
   </a>
 </p>
 <br><br>
