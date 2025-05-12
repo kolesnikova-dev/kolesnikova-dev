@@ -11,11 +11,11 @@
 </p>
 <br><br>
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kweeuhree&kolesnikova-dev&theme=blue_navy" alt="kolesnikova-dev's Github Stats"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolesnikova-dev&theme=blue_navy" alt="kolesnikova-dev's Github Stats"/>
 </p>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweeuhree&kolesnikova-dev&amp;theme=blue_navy&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;" alt="kweeuhree's Github Stats" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikova-dev&amp;theme=blue_navy&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;" alt="kolesnikova-dev's Github Stats" >
 </p>
 <br><br>
 <p>🌱 Fun fact: some of my house plants that are 6 feet tall.</p>
