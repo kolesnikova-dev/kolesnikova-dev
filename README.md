@@ -1,12 +1,12 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
 <p>👯 My favorite sport is building full-stack apps.</p>
-<p>🔭 I am a Scrum Master & Application Tester Intern at Capgemini. I volunteer as a Back End Developer at TeamForward, and as a Software Engineering Tutor at Per Scholas.</p>
+<p>🔭 I am a Scrum Master & Application Tester Intern at Capgemini. I volunteer as a Back End Developer at TeamForward.</p>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,go,git,jest,react,vite,js,postman,mongo,express" />
+    <img src="https://skillicons.dev/icons?i=typescript,go,git,jest,react,vite,js,postman,sql,express" />
   </a>
 </p>
 <br><br>
@@ -14,9 +14,9 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolesnikova-dev&theme=blue_navy" alt="kolesnikova-dev's Github Stats"/>
 </p>
 <br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikova-dev&amp;theme=blue_navy&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;" alt="kolesnikova-dev's Github Stats" >
-</p>
+</p> -->
 <br><br>
 <p>🌱 Fun fact: some of my house plants that are 6 feet tall.</p>
 
