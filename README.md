@@ -2,7 +2,7 @@
 <hr> <br>
 <p>👯 My favorite sport is building full-stack apps.</p>
 <p>🔭 I am an Associate Software Engineer Intern at Capgemini.</p>
-<p>➡️ Currently, working on a Finance Notifier project that scrapes financial news website and summarizes content with GenAI.</p>
+<p>➡️ Currently, working on a <span><a href="https://github.com/kolesnikova-dev/finance-notifier" target="_blank">Finance Notifier</a></span> project that scrapes financial news website and summarizes content with GenAI.</p>
 <br>
 
 <p align="center">
