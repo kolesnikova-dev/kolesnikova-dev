@@ -1,7 +1,7 @@
 ## Hi there, I'm Nika 👋
 <hr> <br>
 <p>👯 My favorite sport is building full-stack apps.</p>
-<p>🔭 I am a Scrum Master & Application Tester Intern at Capgemini. I volunteer as a Back End Developer at TeamForward.</p>
+<p>🔭 I am an Associate Software Engineer Intern at Capgemini.</p>
 <br>
 
 <p align="center">
